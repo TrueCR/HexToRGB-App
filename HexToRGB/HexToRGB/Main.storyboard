@@ -53,6 +53,13 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
+                            <view contentMode="scaleToFill" id="1375" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="0.0" y="266" width="414" height="470"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
+                                    <color key="backgroundColor" colorSpace="calibratedWhite" white="1" alpha="1"/>
+                                </variation>
+                            </view>
                         </subviews>
                         <variation key="default">
                             <mask key="subviews">
@@ -62,6 +69,7 @@
                                 <exclude reference="388"/>
                                 <exclude reference="389"/>
                                 <exclude reference="390"/>
+                                <exclude reference="1375"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular-widthClass=compact">
@@ -72,6 +80,7 @@
                                 <include reference="388"/>
                                 <include reference="389"/>
                                 <include reference="390"/>
+                                <include reference="1375"/>
                             </mask>
                         </variation>
                     </view>
@@ -81,6 +90,7 @@
                         <outlet property="redValueLabel" destination="386" id="name-outlet-386"/>
                         <outlet property="greenValueLabel" destination="387" id="name-outlet-387"/>
                         <outlet property="blueValueLabel" destination="388" id="name-outlet-388"/>
+                        <outlet property="colorView" destination="1375" id="name-outlet-1375"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
