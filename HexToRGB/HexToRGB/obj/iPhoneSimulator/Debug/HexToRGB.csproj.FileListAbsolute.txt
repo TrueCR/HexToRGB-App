@@ -1,0 +1,9 @@
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/bin/iPhoneSimulator/Debug/HexToRGB.exe
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/bin/iPhoneSimulator/Debug/HexToRGB.pdb
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/actool/_PartialAppManifest.items
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/optimized/
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/HexToRGB.csproj.CoreCompileInputs.cache
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/HexToRGB.exe
+/Users/tylerg12/Desktop/Repos/HexToRGB-App/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/HexToRGB.pdb
